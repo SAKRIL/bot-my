@@ -1,4 +1,4 @@
-# bot-my
+## SAKRIL
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -53,3 +53,4 @@ ket : ✅ : aktif
 
 ## DONASI
 * Gopay : 0895324948367 Sakril
+
